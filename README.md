@@ -51,7 +51,6 @@ module Locators
 
   end
 end
-```
 
 ## Python API Automation
 
