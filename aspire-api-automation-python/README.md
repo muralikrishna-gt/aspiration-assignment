@@ -1,5 +1,4 @@
 # Python API Automation
 
 Run with: 
-```python test_swapi.py
-```
+python test_swapi.py
