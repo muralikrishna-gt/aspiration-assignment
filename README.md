@@ -53,6 +53,12 @@ module Locators
 end
 ```
 
+# Python API Automation
+
+Run with: 
+python test_swapi.py
+
+
 ## Authors
 
 * **[Murali Krishna](https://github.com/muralikrishna-gt)**
