@@ -49,9 +49,7 @@ module Locators
       @TEST_DYNAMIC_LOCATOR = Locator.new(:xpath,"//*[text()=#{variable}]")
     end
 
-  end
-end
-```
+
 
 ## Authors
 
