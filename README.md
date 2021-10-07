@@ -53,7 +53,7 @@ module Locators
 end
 ```
 
-# Python API Automation
+## Python API Automation
 
 Run with: 
 python test_swapi.py
